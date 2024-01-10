@@ -1,0 +1,15 @@
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\bin\Debug\net6.0\ConappTwo.exe
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\bin\Debug\net6.0\ConappTwo.deps.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\bin\Debug\net6.0\ConappTwo.runtimeconfig.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\bin\Debug\net6.0\ConappTwo.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\bin\Debug\net6.0\ConappTwo.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\obj\Debug\net6.0\ConappTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\obj\Debug\net6.0\ConappTwo.AssemblyInfoInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\obj\Debug\net6.0\ConappTwo.AssemblyInfo.cs
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\obj\Debug\net6.0\ConappTwo.csproj.CoreCompileInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\obj\Debug\net6.0\ConappTwo.sourcelink.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\obj\Debug\net6.0\ConappTwo.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\obj\Debug\net6.0\refint\ConappTwo.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\obj\Debug\net6.0\ConappTwo.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\obj\Debug\net6.0\ConappTwo.genruntimeconfig.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\ConappTwo\ConappTwo\obj\Debug\net6.0\ref\ConappTwo.dll
